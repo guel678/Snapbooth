@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">SnapBooth</string>
+    <string name="title_activity_main">SnapBooth</string>
+    <string name="package_name">com.derit.snapbooth</string>
+    <string name="custom_url_scheme">com.derit.snapbooth</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme.NoActionBarLaunch" parent="Theme.SplashScreen">
+        <item name="android:windowBackground">@drawable/snapbooth_launch_screen</item>
+        <item name="android:background">@drawable/snapbooth_launch_screen</item>
+        <item name="android:statusBarColor">@color/launchBackground</item>
+        <item name="android:navigationBarColor">@color/launchBackground</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="windowSplashScreenBackground">@color/launchBackground</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/snapbooth_logo_splash</item>
+        <item name="postSplashScreenTheme">@style/AppTheme.NoActionBar</item>
+    </style>
+</resources>
